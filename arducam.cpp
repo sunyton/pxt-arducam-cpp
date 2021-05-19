@@ -1,6 +1,6 @@
 #include "pxt.h"
 
-
+//% color="#ff6600" weight=50 icon="\uf110"
 namespace arducam {
 
     //% blockId=init block="init camera"
