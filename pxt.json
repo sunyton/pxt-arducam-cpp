@@ -12,6 +12,7 @@
         "main.blocks",
         "main.ts",
         "arducam.cpp",
+        "arducam.ts",
         "shims.d.ts",
         "enums.d.ts"
     ],
