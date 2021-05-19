@@ -11,7 +11,8 @@
         "README.md",
         "main.blocks",
         "main.ts",
-        "arducam.cpp"
+        "arducam.cpp",
+        "shims.d.ts"
     ],
     "testFiles": [
         "test.ts"
