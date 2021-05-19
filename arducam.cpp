@@ -6,7 +6,7 @@ namespace arducam {
     /**
     * init 
     */
-    //% blockId=init block="init camera"
+    //% blockId=arducam_init block="init camera"
     //% group="ok"
     void init() {
         // MicroBitI2C i2c(I2C_SDA0, I2C_SCL0);
