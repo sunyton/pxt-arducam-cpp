@@ -1,4 +1,4 @@
-#include "pxt.h"
+// #include "pxt.h"
 
 //% color="#ff6600" weight=50 icon="\uf110"
 namespace arducam {
